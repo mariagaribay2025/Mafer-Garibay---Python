@@ -1,10 +1,10 @@
-## Avid Entrepreneur
+## Consultant and Entrepreneur
 
 By Maria Fernanda GARIBAY 
 https://github.com/mariagaribay2025 
 
 ## Profile
-Serial entrepreneur with 10+ years’ experience building and scaling technology‑driven solutions in social impact and tech. Proven track record leading cross‑functional teams and launching tech products from concept through market adoption.
+Avid entrepreneur with 10+ years’ experience building and scaling technology‑driven solutions in social impact and tech. Proven track record leading cross‑functional teams and launching tech products from concept through market adoption.
 
 ---
 
@@ -34,3 +34,6 @@ Serial entrepreneur with 10+ years’ experience building and scaling technology
 - **Technology:** Emotional AI  
 
 ---
+## Python Projects
+- Dynamic Email Generator
+- Bike Analysis: Define an approach for commuting strategy
