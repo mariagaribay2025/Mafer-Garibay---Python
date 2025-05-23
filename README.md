@@ -35,5 +35,5 @@ Avid entrepreneur with 10+ yearsâ€™ experience building and scaling technologyâ€
 
 ---
 ## Python Projects
-- Dynamic Email Generator
+- [Dynamic Email Generator (Notebook)](https://github.com/mariagaribay2025/Mafer-Garibay---Python/A1 Individual - GARIBAY, Maria Fernanda.ipynb
 - Bike Analysis: Define an approach for commuting strategy
